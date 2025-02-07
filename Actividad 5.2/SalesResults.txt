@@ -1,0 +1,11 @@
+TC1.Sales: $2481.86
+Execution Time: 0.0000 s
+TC2.Sales: $166568.23
+Execution Time: 0.0000 s
+TC3.Sales: $165235.37
+Execution Time: 0.0000 s
+
+Errors:
+----------------------------------------
+Product 'Elotes' not found in price catalogue.
+Product 'Frijoles' not found in price catalogue.
