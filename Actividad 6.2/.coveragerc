@@ -1,0 +1,4 @@
+[run]
+omit = 
+    */site-packages/_distutils_hack/*
+    ...existing code...

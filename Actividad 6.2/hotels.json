@@ -1,0 +1,16 @@
+[
+    {
+        "hotel_id": 7,
+        "name": "Hotel F",
+        "location": "Location F",
+        "rooms": 60,
+        "reservations": []
+    },
+    {
+        "hotel_id": 8,
+        "name": "Hotel G",
+        "location": "Location G",
+        "rooms": 70,
+        "reservations": []
+    }
+]
